@@ -8,6 +8,6 @@ print ('| Naam      : ' + (naam))
 print ('| Adres     : ' + (adres))
 print ('| Postcode  : ' + (postcode))
 print ('| Woonplaats: ' + (woonplaats))
-print ('______________________________________')
+print ('--------------------------------------')
 
 
